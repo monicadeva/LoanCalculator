@@ -12,14 +12,14 @@ Repository contains Selenium WebDriver and TestNG project for Automation Testing
 4) You can use **FirefoxDriver** or **EdgeDriver** or **ChromeDriver** alternatively if you want to run automation test on browser and the same can be updated in the 
 browser parameter in the **testng.xml** file.
 
+**To setup TestNG :-**
+
+The TestNG dependency is in the pom.xml file and will be downloaded automatically.
+We only need to update the testng.xml file based on our execution.
+
 **Reports & Screenshots:**
   Reports and screenshots are present in the project root path. 
   
 **Reports Path :** LoanCalculator\test-output
 
 **Screenshots Path:** LoanCalculator\Screenshots
-
-**To setup TestNG :-**
-
-The TestNG dependency is in the pom.xml file and will be downloaded automatically.
-We only need to update the testng.xml file based on our execution.
