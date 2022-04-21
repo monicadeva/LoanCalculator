@@ -14,6 +14,7 @@ browser parameter in the **testng.xml** file.
 
 **Reports & Screenshots:**
   Reports and screenshots are present in the project root path. 
+  
 **Reports Path :** LoanCalculator\test-output
 **Screenshots Path:** LoanCalculator\Screenshots
 
