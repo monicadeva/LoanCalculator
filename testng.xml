@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="com.loancalculator.utilities.Reporting" />
+    </listeners>
+
+    <parameter name="browser" value="edge" />
+    <test name="Loan Calculator Modal">
+        <classes>
+            <class name="com.loancalculator.testCases.PersonalDetails"/>
+            <class name="com.loancalculator.testCases.TC01LoanCalculator"/>
+            <class name="com.loancalculator.testCases.TC02LoanCalculator" />
+         </classes>
+     </test>
+ </suite>

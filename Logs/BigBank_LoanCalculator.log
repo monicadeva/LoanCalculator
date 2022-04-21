@@ -1,0 +1,14 @@
+2022-04-21 19:38:43 INFO  Log:19 - All the page basic elements available
+2022-04-21 19:38:43 INFO  Log:19 - Screenshot Taken and placed in following path:C:\Users\monica\Desktop\LoanCalculator\Screenshots\PersonalDetails.png
+2022-04-21 19:39:03 INFO  Log:19 - Calculator Modal opened.
+2022-04-21 19:39:05 INFO  Log:19 - Loan Amount Set
+2022-04-21 19:39:06 INFO  Log:19 - Loan Period Set.
+2022-04-21 19:39:06 INFO  Log:19 - Estimated Monthly Cost : 1480,81 SEK
+2022-04-21 19:39:07 INFO  Log:19 - Screenshot Taken and placed in following path:C:\Users\monica\Desktop\LoanCalculator\Screenshots\TC01LoanCalculator.png
+2022-04-21 19:39:07 INFO  Log:19 - Loan Amount is saved.
+2022-04-21 19:39:25 INFO  Log:19 - Calculator Modal opened.
+2022-04-21 19:39:26 INFO  Log:19 - Loan Amount entered.
+2022-04-21 19:39:28 INFO  Log:19 - Loan Period entered.
+2022-04-21 19:39:28 INFO  Log:19 - Estimated Monthly Cost calculated.
+2022-04-21 19:39:29 INFO  Log:19 - Screenshot Taken and placed in following path:C:\Users\monica\Desktop\LoanCalculator\Screenshots\TC02LoanCalculator.png
+2022-04-21 19:39:29 INFO  Log:19 - Loan Amount is saved.
